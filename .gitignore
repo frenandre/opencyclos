@@ -1,0 +1,12 @@
+/.gradle/
+/build/
+/bin/
+
+/src/main/webapp/pages/images/*
+!/src/main/webapp/pages/images/gaucho.gif
+
+/src/main/webapp/pages/styles/*
+!/src/main/webapp/pages/styles/original
+
+/.dbeaver/
+/.settings/
